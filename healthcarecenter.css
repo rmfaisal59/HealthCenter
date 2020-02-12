@@ -1,0 +1,93 @@
+body {
+        background-color: #ff4c68;
+  text-align: center;
+
+
+}
+
+h1 {
+  font-size: 4.5rem;
+  margin: 60px 400px;
+  font-family: 'Sriracha', cursive;
+}
+h2 {
+  font-family: 'Sriracha', cursive;
+}
+img {
+width: 300px;
+height: 250px;
+}
+
+p {
+margin: 10px 70px 20px 70px;
+}
+.nav-link {
+  padding: 3% 5%;
+  font-size: 2.1rem;
+}
+.navbar-brand {
+  font-size: 2.1rem;
+}
+.icons {
+  color: red;
+margin: 5px 7px;
+
+}
+.icons :hover {
+  color: blue;
+}
+.icon-div {
+
+  position: fixed;
+  left: 0;
+  bottom: 3px;
+}
+.diet-txt {
+  margin-right: 350px;
+  text-align: center;
+  font-family: 'Mukta', sans-serif;
+}
+
+.email {
+  
+}
+
+
+
+
+
+/* ID SELECTORS */
+
+
+
+#diet-section {
+  width: auto;
+  height: 500px;
+}
+
+#exercise-section {
+  width: 1400px;
+  height: 600px;
+}
+
+#healthyfoods {
+  width: auto;
+  height: fix;
+  text-align: center;
+}
+
+
+
+.exercise-p {
+  margin-left: 500px;
+  margin-right: 50px;
+}
+@@media (max-width:1028px) {
+  #healthyfoods {
+    text-align: center;
+  }
+  .exercise-img {
+    width: 50px;
+    height: 50px
+  }
+}
